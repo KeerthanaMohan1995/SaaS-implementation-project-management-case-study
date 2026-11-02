@@ -9,3 +9,12 @@ Key decisions: Two or three decisions you made and why (for example, a scope cha
 What I learned: Two or three honest points.
 Limitations: What the case study doesn’t cover, such as no real stakeholders or no real data.
 Contact: LinkedIn link and email.
+Record a 3-minute video, following the structure: Problem → Users → Requirements → Design → What I built → Testing → Results → Limitations → What I’d improve. Upload it to YouTube as unlisted and link it in the README.
+
+6. Publish a GitHub Pages Landing Page (Optional)
+
+If you want a more polished page:
+
+Go to Settings → Pages in your repository.
+Under Source, choose the main branch and the root folder.
+Save. Your page will be at https://[username].github.io/[repository-name]/.
